@@ -1,4 +1,5 @@
-Project: Sea Level Rise Prediction
+Project: Sea Level Rise Prediction   
+
 Technologies: Python, Pandas, Scikit-learn, Matplotlib
 
 Developed a linear regression model to predict future sea levels based on historical data (1880-2050).
